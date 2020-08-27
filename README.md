@@ -1,0 +1,2 @@
+# javascript_intermediate_class
+Javascript Intermediate Class
